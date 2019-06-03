@@ -8,4 +8,9 @@ parasti kvaternionus izmanto lai tiktu galâ ar "gimbal lock" problçmu.
 ðâdu objektu ir pareizi jânorotç lai asis nostâtos pareizajâs vietâs.
 
 Kvaternioni lai labotu ðo funkciju izmanto èetras dimensijas, 
-tâpçc reizinot ar kvaternioniem ir iespçja izveidot pâreju no vienas pozîcijas uz citu
+tâpçc reizinot ar kvaternioniem ir iespçja izveidot pâreju no vienas pozîcijas uz citu.
+
+Kvaternioni ir daudz efektîvâki nekâ matricas, ar tiem ir çrtâk aprçíinât leníus
+Tos ir viegli importçt starp diviem kvaternioniem un reizinât tos.
+Peldoðâ punkta kvaternonu vienîbas normalizâcija cieð no mazâkiem 
+noapaïoðanas defektiem nekâ matricas attçlojumiem.
