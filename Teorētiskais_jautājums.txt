@@ -1,0 +1,11 @@
+Izskaidrot, kas tas ir un kur to izmanto datorgrafikas kontekstâ:
+2) Kvaternions
+
+Kvaternionu izmanto çrtai objektu rotâcijai trijâs dimensijâs,
+parasti kvaternionus izmanto lai tiktu galâ ar "gimbal lock" problçmu.
+
+Ðî problçma rodâs tad kad 2 asis atrodas vienâ lînijâ,
+ðâdu objektu ir pareizi jânorotç lai asis nostâtos pareizajâs vietâs.
+
+Kvaternioni lai labotu ðo funkciju izmanto èetras dimensijas, 
+tâpçc reizinot ar kvaternioniem ir iespçja izveidot pâreju no vienas pozîcijas uz citu
